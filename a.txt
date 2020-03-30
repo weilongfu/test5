@@ -4,7 +4,14 @@ fuweilong insert one line
 吴阳丹修改了这个文件
 
 fuweilong insert one line
-zhengyuzhen nimendoushichongzi 
+hengyuzhen nimendoushichongzi 
 
+<<<<<<< HEAD
 test -ssh
 
+=======
+欧阳颖修改了这个文件
+
+zhangkun-GitHub modified the file
+>>>>>>> 478cc761944590cd96395539f6051aeb040a69a0
+使用ssh测试
